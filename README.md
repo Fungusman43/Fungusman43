@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fungusman43
 - 👀 I’m interested in game dev/AI
-- 🌱 I’m currently learning C++/LUA/Python
+- 🌱 I’m currently learning C++/LUA/Python/C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me juniormanz2007@gmail.com/https://www.reddit.com/user/oofergang44 /mustached character#2109 (discord)
 
